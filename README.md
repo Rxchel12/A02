@@ -60,24 +60,21 @@ Repo URL:  https://github.com/Rxchel12/A02
 
 - Glossary -
 
-- Branch: A separate line of work in your project (like making a copy to test things).
-- Clone: Downloading a copy of a GitHub repo to your computer.
-- Commit: Saving a snapshot of your work in Git.
-- Fetch: Checking if there are updates on GitHub, but not bringing them into your files yet.
-- GIT: The system that keeps track of versions and changes in your code.
-- Github: A website that stores Git repos and makes teamwork easy.
-- IDE: Stands for Integrated Development Environment. It’s a software application (like WebStorm, VS Code, or PyCharm) that provides tools for coding, debugging, and managing projects all in one place.
-- Local: The version of your project stored on your own computer (not on GitHub). You edit files locally, then commit and push them to the remote.
-- Merge: Combining changes from different branches together.
-- Merge Conflict: When Git can’t figure out how to merge changes automatically, and you need to fix it manually.
-- Push: Sending your saved commits up to GitHub.
-- Pull: Bringing down changes from GitHub to your computer.
-- Remote: The GitHub version of your repo (the one online).
-- Repository: The project folder that Git tracks, with all files and history.  
-- WebStorm: An IDE made by JetBrains that makes it easier to write code, connect to GitHub, and manage Git commands. 
-
-
-
+- **Branch**:A separate line of work in your project (like making a copy to test things).
+- **Clone**: Downloading a copy of a GitHub repo to your computer.
+- **Commit**:Saving a snapshot of your work in Git.
+- **Fetch**: Checking if there are updates on GitHub, but not bringing them into your files yet.
+- **GIT**: The system that keeps track of versions and changes in your code.
+- **Github**: A website that stores Git repos and makes teamwork easy.
+- **IDE**: Stands for Integrated Development Environment. It’s a software application (like WebStorm, VS Code, or PyCharm) that provides tools for coding, debugging, and managing projects all in one place.
+- **Local**: The version of your project stored on your own computer. You edit files locally, then commit and push them to the remote.
+- **Merge**: Combining changes from different branches together.
+- **Merge Conflict**: When Git can’t figure out how to merge changes automatically, and you need to fix it manually.
+- **Push**: Sending your saved commits up to GitHub.
+- **Pull**: Bringing down changes from GitHub to your computer.
+- **Remote**: The GitHub version of your repo (the one online).
+- **Repository**: The project folder that Git tracks, with all files and history.  
+- **WebStorm**: An IDE made by JetBrains that makes it easier to write code, connect to GitHub, and manage Git commands. 
 
 
 
