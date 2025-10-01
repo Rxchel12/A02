@@ -95,7 +95,8 @@ Repo URL:  https://github.com/Rxchel12/A02
 ------------------------------------------------------
 
 # 8. References -
-  
+
+- Slides from classes.
 - Git guides - install git. GitHub. (n.d.). https://github.com/git-guides/install-git 
 - GitHub: WebStorm. WebStorm Help. (n.d.). https://www.jetbrains.com/help/webstorm/github.html 
 
