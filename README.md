@@ -1,6 +1,6 @@
 # A02
 
-- Guidance on connecting GitHub to WebStorm -
+# Guidance on connecting GitHub to WebStorm -
 
 Course: IS117
 Author: raa223
@@ -76,6 +76,11 @@ Repo URL:  https://github.com/Rxchel12/A02
 - **Repository**: The project folder that Git tracks, with all files and history.  
 - **WebStorm**: An IDE made by JetBrains that makes it easier to write code, connect to GitHub, and manage Git commands. 
 
+------------------------------------------------------
 
+- References -
+  
+- Git guides - install git. GitHub. (n.d.). https://github.com/git-guides/install-git 
+- GitHub: WebStorm. WebStorm Help. (n.d.). https://www.jetbrains.com/help/webstorm/github.html 
 
 
