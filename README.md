@@ -82,11 +82,11 @@ Repo URL:  https://github.com/Rxchel12/A02
 - **Branch**: A separate line of development within a project, used to work on features or fixes without affecting the main codebase.  
 - **Clone**: Creating a local copy of a GitHub repository on your computer so you can work on it directly.  
 - **Commit**: A saved snapshot of changes in Git, representing a point in the project’s history.  
-- **Fetch**: Checking for updates from the remote repository and downloading information about new changes, but not applying them to your local files yet.  
+- **Fetch**: Checking for updates from the remote repository and downloading information about new changes. it doesnt apply them to your local files.
 - **Git**: A version control system that tracks changes in files and manages project history.  
 - **GitHub**: A platform for hosting Git repositories online, often used for collaboration and project sharing.  
 - **Merge**: The process of integrating changes from one branch into another.  
-- **Merge Conflict**: A situation where Git cannot automatically merge changes because the same part of a file was edited differently in two branches, requiring manual resolution.  
+- **Merge Conflict**: A situation where Git cannot automatically merge changes, requiring manual resolution.  
 - **Push**: Sending your committed changes from your local repository to the remote repository on GitHub.  
 - **Pull**: Retrieving updates from the remote repository and applying them to your local branch.  
 - **Remote**: The version of your repository stored on GitHub (or another server) that your local repository connects to.  
